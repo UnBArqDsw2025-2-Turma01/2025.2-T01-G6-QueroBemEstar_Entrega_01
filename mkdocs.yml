@@ -1,10 +1,28 @@
 site_name: Quero Bem Estar 
-
-repo_name:
 repo_url: https://github.com/UnBArqDsw2025-2-Turma01/2025.2-T01-G6_-QueroBemEstar_Entrega_01
 
 nav:
   - Início: index.md
+  - 1 Desenho de Software:
+    - 1.1 Unpack:
+      - Placeholder
+    - 1.2 Sketch:
+      - Placeholder
+    - 1.3 Decision:
+      - Placeholder
+    - 1.4 Prototype:
+      - Placeholder
+    - 1.5 Test:
+      - Placeholder
+  - 2 Artefato Generalista:
+    - Placeholder
+  - 3 Modelagem BPMN:
+    - Placeholder
+  - 4 Registro de Participação:
+    - Placeholder
+  - 5 Atas:
+    - 5.1 Ata 1:
+      - Placeholder
 
 theme:
   name: material
