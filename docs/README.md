@@ -36,4 +36,4 @@ Essa solução integra saúde, gamificação e socialização, tornando o cuidad
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 03/09/2025  | Descrição home | [Eduardo Ferreira](https://github.com/eduardoferre) | []()
+| `1.0` | 03/09/2025  | Descrição Home | [Eduardo Ferreira](https://github.com/eduardoferre) | []()
