@@ -16,7 +16,4 @@
       - [1.2.2. Diagrama causa-efeito](./Base/ArtefatosGeneralistas/1.2.2.Ishikawa.md)
       - [1.2.4. Léxico](./Base/ArtefatosGeneralistas/1.2.4.Lexico.md)
     - [1.3. Modelagem BPMN](./Base/ModelagemBPMN/1.3.ModelagemBPMN.md)
-      - [1.3.1. Fluxo de Uso](./Base/ModelagemBPMN/1.3.1.FluxoDeUso.md)
-      - [1.3.2. Metodologia](./Base/ModelagemBPMN/1.3.2.Metodologia.md)
-      - [1.3.3. Fluxo de Desenvolvimento](./Base/ModelagemBPMN/1.3.3.FluxoDesenvolvimento.md)
     - [1.4. Participações](./Base/1.4.ParticipacoesBase.md)
