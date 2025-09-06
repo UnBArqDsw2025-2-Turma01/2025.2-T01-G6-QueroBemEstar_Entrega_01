@@ -19,7 +19,7 @@ O **heatmap** acima ilustra a disponibilidade da equipe e os melhores dias para 
 
 Você pode acessar o link do heatmap completo abaixo:
 
-[Visualizar o Heatmap Completo](https://docs.google.com/spreadsheets/d/1toPbwvB6IcUtkKyg6Y9oBM-5TuJzqmDyOdmMm1Y7iNQ/edit?gid=1708138990#gid=1708138990)
+[Visualizar o Heatmap Completo](https://docs.google.com/spreadsheets/d/1toPbwvB6IcUtkKyg6Y9oBM-5TuJzqmDyOdmMm1Y7iNQ/edit?usp=sharing)
 
 
 ## Referências Bibliográficas
