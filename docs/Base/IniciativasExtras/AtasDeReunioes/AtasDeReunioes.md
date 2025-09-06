@@ -13,9 +13,9 @@ Em resumo, a ata é uma ferramenta essencial de comunicação e controle dentro 
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor(es) |
-| :-: | :-: | :-: | :-: |
-| `1.0` | 05/09/2025  | Criação do Documento | [Leonardo Henrique Sobral Sauma Junior][leohssjr] |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 05/09/2025  | Criação do Documento | [Leonardo Henrique Sobral Sauma Junior][leohssjr] | [Artur Krauspenhar][Arturhk05] |
 
 [Arturhk05]: https://github.com/Arturhk05  
 [eduardoferre]: https://github.com/eduardoferre  

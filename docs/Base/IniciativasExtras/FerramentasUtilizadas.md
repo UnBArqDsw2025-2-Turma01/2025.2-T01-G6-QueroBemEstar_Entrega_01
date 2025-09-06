@@ -27,5 +27,15 @@ A seleção desses recursos foi feita com o intuito de garantir uma execução m
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 05/09/2025  | Descrição ferramentas utilizadas | [Eduardo Ferreira](https://github.com/eduardoferre) | [Leonardo Sauma](https://github.com/leohssjr)
-| `2.0` | 05/09/2025  | Adicionando Figma na tabela | [Leonardo Sauma](https://github.com/leohssjr) | 
+| `2.0` | 05/09/2025  | Adicionando Figma na tabela | [Leonardo Sauma](https://github.com/leohssjr) | [Artur Krauspenhar][Arturhk05] |
 
+[Arturhk05]: https://github.com/Arturhk05  
+[eduardoferre]: https://github.com/eduardoferre  
+[fbressa]: https://github.com/fbressa  
+[SAnjos3]: https://github.com/SAnjos3  
+[JoaoPedro2206]: https://github.com/JoaoPedro2206  
+[JoseViniciusQueiroz]: https://github.com/JoseViniciusQueiroz  
+[leohssjr]: https://github.com/leohssjr  
+[marcomarquesdc]: https://github.com/marcomarquesdc  
+[MylenaTrindade]: https://github.com/MylenaTrindade  
+[yagoas]: https://github.com/yagoas

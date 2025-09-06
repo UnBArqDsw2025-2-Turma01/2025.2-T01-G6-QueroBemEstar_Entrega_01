@@ -34,4 +34,15 @@ Você pode acessar o link do heatmap completo abaixo:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 05/09/2025  | Criação página HeatMap | [Eduardo Ferreira](https://github.com/eduardoferre) | []()
+| `1.0` | 05/09/2025  | Criação página HeatMap | [Eduardo Ferreira](https://github.com/eduardoferre) | [Artur Krauspenhar][Arturhk05] |
+
+[Arturhk05]: https://github.com/Arturhk05  
+[eduardoferre]: https://github.com/eduardoferre  
+[fbressa]: https://github.com/fbressa  
+[SAnjos3]: https://github.com/SAnjos3  
+[JoaoPedro2206]: https://github.com/JoaoPedro2206  
+[JoseViniciusQueiroz]: https://github.com/JoseViniciusQueiroz  
+[leohssjr]: https://github.com/leohssjr  
+[marcomarquesdc]: https://github.com/marcomarquesdc  
+[MylenaTrindade]: https://github.com/MylenaTrindade  
+[yagoas]: https://github.com/yagoas
