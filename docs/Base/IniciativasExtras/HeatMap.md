@@ -6,7 +6,7 @@ Um heatmap é uma representação gráfica de dados em que as informações são
 A seguir, o heatmap da equipe demonstrando sua disponibilidade e definições de melhores dias para encontro.
 
 <center>
-<font size="3"><p style="text-align: center"><b>Figura 1:</b> Brainstorm Final </p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> HeatMap </p></font>
 
 <div style="text-align: center;">
     <img src="assets/IniciativasExtras/HeatMap.png"  width="1000px">
