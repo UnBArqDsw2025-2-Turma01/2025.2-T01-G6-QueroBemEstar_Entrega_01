@@ -34,4 +34,4 @@ Você pode acessar o link do heatmap completo abaixo:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 05/09/2025  | Descrição do diagrama de Ishikawa | [Eduardo Ferreira](https://github.com/eduardoferre) | []()
+| `1.0` | 05/09/2025  | Criação página HeatMap | [Eduardo Ferreira](https://github.com/eduardoferre) | []()

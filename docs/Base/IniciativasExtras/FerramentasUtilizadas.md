@@ -24,4 +24,4 @@ A seleção desses recursos foi feita com o intuito de garantir uma execução m
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 05/09/2025  | Descrição do diagrama de Ishikawa | [Eduardo Ferreira](https://github.com/eduardoferre) | []()
+| `1.0` | 05/09/2025  | Descrição ferramentas utilizadas | [Eduardo Ferreira](https://github.com/eduardoferre) | []()
