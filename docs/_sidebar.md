@@ -21,3 +21,6 @@
     - [**1.5. Iniciativas Extras**](./Base/1.5.IniciativasExtras.md)
       - [1.5.1. HeatMap](./Base/IniciativasExtras/HeatMap.md)
       - [1.5.2. Ferramentas Utilizadas](./Base/IniciativasExtras/FerramentasUtilizadas.md)
+      - [1.5.3. Atas de Reuniões](./Base/IniciativasExtras/AtasDeReunioes/AtasDeReunioes.md)
+        - [1.5.3.1. Reunião 29/08/2025](./Base/IniciativasExtras/AtasDeReunioes/Ata29-08-2025.md)
+        - [1.5.3.2. Reunião 02/09/2025](./Base/IniciativasExtras/AtasDeReunioes/Ata02-09-2025.md)
