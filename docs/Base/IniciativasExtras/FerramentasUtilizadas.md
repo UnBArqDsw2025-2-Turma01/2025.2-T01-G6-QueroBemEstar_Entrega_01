@@ -16,6 +16,8 @@ A seleção desses recursos foi feita com o intuito de garantir uma execução m
 | <img src="https://cdn.brandfetch.io/idAnDTFapY/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="25"> | Miro                    | Plataforma colaborativa para criação de quadros brancos.                                          
 | <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="25">                 | Visual Studio Code      | Editor de código-fonte com suporte a múltiplas linguagens e extensões.      |
 | <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="25">                                | WhatsApp                | Aplicativo de mensagens para comunicação instantânea via texto. |
+| <img src="https://cdn.iconscout.com/icon/free/png-256/free-figma-2296071-1912030.png" width="25"> | Figma | Ferramenta de design colaborativo para criação e prototipação de interfaces em alta fidelidade. |
+
 
 </center>
 
